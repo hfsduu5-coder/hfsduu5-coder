@@ -5,7 +5,11 @@
 ### Cybersecurity & AI Engineering Student
 **Security Tools • Web Security • CTF • AI-powered Systems**
 
-Building practical security tools, learning through real-world projects, and exploring the intersection of cybersecurity and artificial intelligence.
+Building practical security tools, interactive learning experiences, and AI-assisted cybersecurity systems.
+
+[![GitHub](https://img.shields.io/badge/GitHub-hfsduu5--coder-181717?style=for-the-badge&logo=github)](https://github.com/hfsduu5-coder)
+![Iraq](https://img.shields.io/badge/Based%20in-Iraq-800020?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-8B0000?style=for-the-badge)
 
 </div>
 
@@ -15,7 +19,7 @@ Building practical security tools, learning through real-world projects, and exp
 
 - 🎓 Networks & Cybersecurity Engineering student at **Al-Iraqia University**
 - 🛡️ Focused on **Cybersecurity, Web Security, CTFs, OSINT, and Security Tooling**
-- 🤖 Interested in **AI agents, local LLMs, and AI-assisted security workflows**
+- 🤖 Exploring **AI agents, local LLMs, and AI-assisted security workflows**
 - 🐍 Building security-focused tools primarily with **Python**
 - 🧩 Learning through hands-on projects, labs, competitions, and security research
 - 👥 Active with **Cyber IQ**, focused on cybersecurity, AI, networking, programming, and technical training
@@ -23,52 +27,70 @@ Building practical security tools, learning through real-world projects, and exp
 
 ## 🔭 Current Focus
 
-- Developing **CyberAI-Lab**, a multi-provider AI CLI for security research
 - Building cybersecurity and OSINT tooling
 - Practicing **Web Security** and CTF methodology
 - Exploring practical **Agentic AI** systems
 - Strengthening networking and cybersecurity fundamentals
+- Developing new security-focused projects for future publication
 
 ## 🛡️ Security Focus
 
 `Web Security` • `Reconnaissance` • `OSINT` • `CTF` • `Digital Forensics` • `Cryptography` • `Network Security`
 
-I work with security tooling and methodologies for authorized labs, CTF environments, research, and scoped testing.
+> Security work and tooling are intended for authorized labs, CTF environments, education, research, and scoped testing.
 
 ## 💻 Technology
 
-**Languages:** `Python` • `JavaScript` • `TypeScript` • `Dart` • `HTML` • `CSS`
+**Languages**  
+`Python` • `JavaScript` • `TypeScript` • `Dart` • `HTML` • `CSS`
 
-**Development:** `Flutter` • `NestJS` • `Firebase / Firestore` • `Three.js` • `D3.js` • `SQLite`
+**Development**  
+`Flutter` • `NestJS` • `Firebase / Firestore` • `Three.js` • `D3.js` • `SQLite`
 
-**Security:** `Burp Suite` • `httpx` • `katana` • `ffuf` • `nuclei` • `LinkFinder` • `binwalk` • `foremost`
+**Security**  
+`Burp Suite` • `httpx` • `katana` • `ffuf` • `nuclei` • `LinkFinder` • `binwalk` • `foremost`
 
-**AI & Tools:** `Ollama` • `Gemini` • `OpenCode` • `Git` • `GitHub` • `Kali Linux` • `Windows`
+**AI & Environment**  
+`Ollama` • `Gemini` • `OpenCode` • `Git` • `GitHub` • `Kali Linux` • `Windows`
 
-## 🚀 Selected Projects
+## 🚀 Featured Work
 
-### 🤖 CyberAI-Lab — In Development
-A Python-based, multi-provider AI CLI designed for cybersecurity research and AI-assisted technical workflows.
+### 🏴 [CTF Workshop — Cyber Team](https://github.com/hfsduu5-coder/Workshop3)
+Interactive Arabic-first CTF workshop presented through a responsive cyber-themed web experience.
 
-### 🔎 CYBER OSINT — In Development
-An OSINT correlation platform focused on connecting and visualizing investigation data through an interactive graph-based interface.
+### 🧭 [Cyber Team Roadmap](https://github.com/hfsduu5-coder/Roadmap-Cyber-Team)
+Interactive Arabic roadmap for Cyber Team activities and cybersecurity learning.
 
-### 🛡️ CT Scanner
-A Python desktop network and port scanning project with a cybersecurity-focused interface.
+### 🗄️ [Database Systems Course](https://github.com/hfsduu5-coder/-Database-Systems-Course)
+Interactive educational web application for browsing and reviewing Database Systems course material.
 
-### 🪪 KYC Document Agent
-An agentic AI concept developed for a KYC document-processing challenge with team **SENPAI**.
+### 🛡️ [Cyber Team Web Experience](https://github.com/hfsduu5-coder/CST)
+Responsive Cyber Team interface with Arabic RTL support, animated cyber visuals, and QR-code functionality.
 
-### 🧪 CTF & Security Labs
-Hands-on work involving web security, cryptography, digital forensics, network analysis, and CTF problem solving.
+### 🎓 [Academic & Professional Education Workshop](https://github.com/hfsduu5-coder/Workshop2)
+Arabic interactive presentation covering academic and professional education.
+
+## 🧪 Projects in Development
+
+- **CyberAI-Lab** — Multi-provider AI CLI concept for cybersecurity research and AI-assisted technical workflows.
+- **CYBER OSINT** — OSINT correlation and visualization platform.
+- **CT Scanner** — Python desktop network and port scanning project.
+
+These projects will be linked here when their repositories are ready for publication.
 
 ## 👥 Cyber IQ
 
 I contribute to **Cyber IQ**, a student-led technical initiative focused on cybersecurity, CTF training, artificial intelligence, networking, programming, workshops, student projects, and practical labs.
 
-## 🎯 What I'm Building Toward
+## 📊 GitHub
 
-Combining **cybersecurity, software engineering, and AI** to create practical security tools, learning platforms, and systems that solve real problems.
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hfsduu5-coder&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hfsduu5-coder&layout=compact&hide_border=true&theme=transparent)
+
+</div>
 
 ---
 
@@ -76,6 +98,6 @@ Combining **cybersecurity, software engineering, and AI** to create practical se
 
 ### Build. Break. Learn. Secure.
 
-[GitHub Profile](https://github.com/hfsduu5-coder)
+**Cybersecurity • AI • Engineering**
 
 </div>
