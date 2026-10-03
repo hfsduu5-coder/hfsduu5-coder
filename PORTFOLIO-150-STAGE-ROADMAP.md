@@ -144,26 +144,26 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 
 ## CST Web Experience
 
-- [ ] 126. remove unverified metrics
-- [ ] 127. QR target verification
-- [ ] 128. official-brand asset audit
-- [ ] 129. semantic landmarks
+- [x] 126. remove unverified metrics
+- [x] 127. QR target verification
+- [x] 128. official-brand asset audit
+- [x] 129. semantic landmarks
 - [ ] 130. skip navigation
 - [ ] 131. keyboard focus states
-- [ ] 132. ARIA labels
+- [x] 132. ARIA labels
 - [ ] 133. mobile navigation hardening
-- [ ] 134. reduced-motion support
+- [x] 134. reduced-motion support
 - [ ] 135. canvas performance cap
-- [ ] 136. responsive cards
+- [x] 136. responsive cards
 - [ ] 137. external-link rel safety
 - [ ] 138. QR fallback link
 - [x] 139. broken-link check
 - [x] 140. HTML validation
-- [ ] 141. JS syntax check
-- [ ] 142. local smoke test
-- [ ] 143. 404 page
-- [ ] 144. metadata description
-- [ ] 145. OpenGraph metadata
+- [x] 141. JS syntax check
+- [x] 142. local smoke test
+- [x] 143. 404 page
+- [x] 144. metadata description
+- [x] 145. OpenGraph metadata
 - [ ] 146. privacy-safe analytics policy
 - [x] 147. security policy
 - [x] 148. contribution guide
