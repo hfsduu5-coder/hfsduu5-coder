@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="assets/cyberiq-logo.svg" width="150" alt="CyberIQ logo">
+
+## CyberIQ
+
 # مقتدى الصدر جارالله خليف
 ### Muqtada Al-Sadr Jarallah Khalif
 
@@ -55,14 +59,14 @@ As **Team Leader and CEO of CyberIQ**, I work on cybersecurity, artificial intel
 ### 🤖 [CyberAI-Lab](https://github.com/hfsduu5-coder/CyberAI-Lab)
 Extensible Python CLI for authorized AI-assisted cybersecurity research. Includes offline analyzer modules, workspaces, JSON/Markdown/HTML reporting, local dashboard, diagnostics, tests, CI, Ollama, and OpenAI-compatible provider support.
 
-### 🏴 [CTF Workshop — Cyber Team](https://github.com/hfsduu5-coder/Workshop3)
+### 🏴 [CTF Workshop — CyberIQ](https://github.com/hfsduu5-coder/Workshop3)
 Interactive Arabic-first CTF workshop delivered through a responsive cyber-themed web experience.
 
-### 🧭 [Cyber Team Roadmap](https://github.com/hfsduu5-coder/Roadmap-Cyber-Team)
-Interactive Arabic RTL roadmap for cybersecurity learning and Cyber Team activities.
+### 🧭 [CyberIQ Roadmap](https://github.com/hfsduu5-coder/Roadmap-Cyber-Team)
+Interactive Arabic RTL roadmap for cybersecurity learning and CyberIQ activities.
 
-### 🛡️ [Cyber Team Web Experience](https://github.com/hfsduu5-coder/CST)
-Responsive Arabic RTL Cyber Team interface with animated cyber visuals and QR-code functionality.
+### 🛡️ [CyberIQ Web Experience](https://github.com/hfsduu5-coder/CST)
+Responsive Arabic RTL CyberIQ interface with animated cyber visuals and QR-code functionality.
 
 ### 🗄️ [Database Systems Course](https://github.com/hfsduu5-coder/-Database-Systems-Course)
 Interactive educational web application for browsing and reviewing Database Systems course material.
