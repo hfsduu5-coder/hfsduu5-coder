@@ -34,12 +34,12 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 
 - [x] 26. validated IPv4 extraction
 - [x] 27. malformed-IP regression test
-- [ ] 28. HTTP parser edge cases
-- [ ] 29. duplicate-header handling policy
-- [ ] 30. query parser normalization
+- [x] 28. HTTP parser edge cases
+- [x] 29. duplicate-header handling policy
+- [x] 30. query parser normalization
 - [ ] 31. URL inventory normalization
 - [ ] 32. domain validation
-- [ ] 33. hash classification
+- [x] 33. hash classification
 - [x] 34. bounded input tests
 - [x] 35. provider timeout validation
 - [x] 36. provider URL validation
@@ -51,9 +51,9 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 42. HTML report hardening
 - [x] 43. dashboard escaping tests
 - [x] 44. workspace path safety
-- [ ] 45. plugin contract tests
+- [x] 45. plugin contract tests
 - [ ] 46. CLI smoke tests
-- [ ] 47. documentation accuracy audit
+- [x] 47. documentation accuracy audit
 - [ ] 48. CI verification
 - [ ] 49. dependency audit
 - [ ] 50. v1.1 release readiness
