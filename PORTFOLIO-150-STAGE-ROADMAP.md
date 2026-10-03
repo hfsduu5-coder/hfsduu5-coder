@@ -37,13 +37,13 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 28. HTTP parser edge cases
 - [x] 29. duplicate-header handling policy
 - [x] 30. query parser normalization
-- [ ] 31. URL inventory normalization
+- [x] 31. URL inventory normalization
 - [ ] 32. domain validation
 - [x] 33. hash classification
 - [x] 34. bounded input tests
 - [x] 35. provider timeout validation
 - [x] 36. provider URL validation
-- [ ] 37. provider response-size guard
+- [x] 37. provider response-size guard
 - [x] 38. provider error sanitization
 - [x] 39. configuration tests
 - [x] 40. offline analyzer schema
@@ -52,7 +52,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 43. dashboard escaping tests
 - [x] 44. workspace path safety
 - [x] 45. plugin contract tests
-- [ ] 46. CLI smoke tests
+- [x] 46. CLI smoke tests
 - [x] 47. documentation accuracy audit
 - [ ] 48. CI verification
 - [ ] 49. dependency audit
@@ -67,7 +67,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 55. case-name safety
 - [x] 56. evidence collision handling
 - [x] 57. atomic manifests
-- [ ] 58. workspace integrity boundary
+- [x] 58. workspace integrity boundary
 - [x] 59. plugin input contract
 - [x] 60. plugin error isolation
 - [x] 61. batch size limits
@@ -76,7 +76,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 64. dashboard escaping
 - [x] 65. search result normalization
 - [x] 66. severity validation
-- [ ] 67. executive report tests
+- [x] 67. executive report tests
 - [x] 68. CLI smoke tests
 - [x] 69. doctor tests
 - [x] 70. release-check tests
@@ -100,12 +100,12 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 85. JSON progress validation
 - [x] 86. archive slug validation
 - [x] 87. HTML case validation
-- [ ] 88. accessibility pass
-- [ ] 89. mobile navigation pass
-- [ ] 90. search/filter regression
+- [x] 88. accessibility pass
+- [x] 89. mobile navigation pass
+- [x] 90. search/filter regression
 - [ ] 91. dashboard data consistency
-- [ ] 92. knowledge-base crosslinks
-- [ ] 93. tool-map crosslinks
+- [x] 92. knowledge-base crosslinks
+- [x] 93. tool-map crosslinks
 - [x] 94. RedCastle contamination review
 - [x] 95. Deadwood record review
 - [ ] 96. CryptoHack reference audit
@@ -125,9 +125,9 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 107. ARIA labels
 - [x] 108. mobile menu accessibility
 - [x] 109. reduced-motion support
-- [ ] 110. canvas performance cap
-- [ ] 111. responsive typography
-- [ ] 112. small-screen cards
+- [x] 110. canvas performance cap
+- [x] 111. responsive typography
+- [x] 112. small-screen cards
 - [x] 113. external-link rel safety
 - [x] 114. broken-link check
 - [x] 115. HTML validation
@@ -136,7 +136,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [ ] 118. local smoke test
 - [x] 119. 404 page
 - [x] 120. metadata description
-- [ ] 121. OpenGraph metadata
+- [x] 121. OpenGraph metadata
 - [ ] 122. favicon/official asset check
 - [x] 123. security policy
 - [x] 124. contribution guide
@@ -153,7 +153,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 132. ARIA labels
 - [x] 133. mobile navigation hardening
 - [x] 134. reduced-motion support
-- [ ] 135. canvas performance cap
+- [x] 135. canvas performance cap
 - [x] 136. responsive cards
 - [x] 137. external-link rel safety
 - [ ] 138. QR fallback link
