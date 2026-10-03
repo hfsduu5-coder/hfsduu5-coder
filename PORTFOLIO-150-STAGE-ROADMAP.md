@@ -63,13 +63,13 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 51. input path validation
 - [x] 52. IPv4 validation
 - [x] 53. hash validation
-- [ ] 54. URL normalization
+- [x] 54. URL normalization
 - [x] 55. case-name safety
 - [x] 56. evidence collision handling
 - [x] 57. atomic manifests
 - [ ] 58. workspace integrity boundary
-- [ ] 59. plugin input contract
-- [ ] 60. plugin error isolation
+- [x] 59. plugin input contract
+- [x] 60. plugin error isolation
 - [x] 61. batch size limits
 - [x] 62. batch regression tests
 - [x] 63. report schema validation
@@ -77,7 +77,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [ ] 65. search result normalization
 - [x] 66. severity validation
 - [ ] 67. executive report tests
-- [ ] 68. CLI smoke tests
+- [x] 68. CLI smoke tests
 - [ ] 69. doctor tests
 - [ ] 70. release-check tests
 - [x] 71. contributor guide
