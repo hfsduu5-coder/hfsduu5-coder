@@ -4,21 +4,21 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 
 ## CyberIQ DFIR Lab
 
-- [ ] 1. case-name validation
-- [ ] 2. duplicate-case protection
-- [ ] 3. atomic manifest writes
-- [ ] 4. evidence IDs
-- [ ] 5. duplicate-content detection
-- [ ] 6. same-name evidence collision handling
-- [ ] 7. case-relative evidence paths
-- [ ] 8. workspace-bound integrity checks
-- [ ] 9. strict SHA-256 validation
-- [ ] 10. finding severity validation
-- [ ] 11. timeline structure validation
-- [ ] 12. custody structure validation
-- [ ] 13. tamper regression test
-- [ ] 14. path-traversal regression test
-- [ ] 15. duplicate-evidence regression test
+- [x] 1. case-name validation
+- [x] 2. duplicate-case protection
+- [x] 3. atomic manifest writes
+- [x] 4. evidence IDs
+- [x] 5. duplicate-content detection
+- [x] 6. same-name evidence collision handling
+- [x] 7. case-relative evidence paths
+- [x] 8. workspace-bound integrity checks
+- [x] 9. strict SHA-256 validation
+- [x] 10. finding severity validation
+- [x] 11. timeline structure validation
+- [x] 12. custody structure validation
+- [x] 13. tamper regression test
+- [x] 14. path-traversal regression test
+- [x] 15. duplicate-evidence regression test
 - [ ] 16. HTML report enrichment
 - [ ] 17. dashboard evidence table
 - [ ] 18. dashboard findings view
@@ -26,14 +26,14 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [ ] 20. CLI error normalization
 - [ ] 21. case export smoke tests
 - [ ] 22. packaging metadata audit
-- [ ] 23. license file
+- [x] 23. license file
 - [ ] 24. CI evidence verification
 - [ ] 25. v1.3 release readiness
 
 ## CyberAI Lab
 
-- [ ] 26. validated IPv4 extraction
-- [ ] 27. malformed-IP regression test
+- [x] 26. validated IPv4 extraction
+- [x] 27. malformed-IP regression test
 - [ ] 28. HTTP parser edge cases
 - [ ] 29. duplicate-header handling policy
 - [ ] 30. query parser normalization
@@ -61,7 +61,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 ## CyberIQ Security Tools
 
 - [ ] 51. input path validation
-- [ ] 52. IPv4 validation
+- [x] 52. IPv4 validation
 - [ ] 53. hash validation
 - [ ] 54. URL normalization
 - [ ] 55. case-name safety
@@ -80,7 +80,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [ ] 68. CLI smoke tests
 - [ ] 69. doctor tests
 - [ ] 70. release-check tests
-- [ ] 71. contributor guide
+- [x] 71. contributor guide
 - [ ] 72. documentation accuracy audit
 - [ ] 73. CI verification
 - [ ] 74. dependency audit
@@ -96,8 +96,8 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [ ] 81. defensive takeaway requirement
 - [ ] 82. flag redaction rule
 - [ ] 83. secret scan guidance
-- [ ] 84. broken-link validation
-- [ ] 85. JSON progress validation
+- [x] 84. broken-link validation
+- [x] 85. JSON progress validation
 - [ ] 86. archive slug validation
 - [ ] 87. HTML case validation
 - [ ] 88. accessibility pass
@@ -111,8 +111,8 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [ ] 96. CryptoHack reference audit
 - [ ] 97. Pages deployment check
 - [ ] 98. official-logo path check
-- [ ] 99. contributor quality gate
-- [ ] 100. portfolio release readiness
+- [x] 99. contributor quality gate
+- [x] 100. portfolio release readiness
 
 ## CyberIQ Roadmap
 
@@ -129,8 +129,8 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [ ] 111. responsive typography
 - [ ] 112. small-screen cards
 - [ ] 113. external-link rel safety
-- [ ] 114. broken-link check
-- [ ] 115. HTML validation
+- [x] 114. broken-link check
+- [x] 115. HTML validation
 - [ ] 116. CSS validation
 - [ ] 117. JS syntax check
 - [ ] 118. local smoke test
@@ -138,8 +138,8 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [ ] 120. metadata description
 - [ ] 121. OpenGraph metadata
 - [ ] 122. favicon/official asset check
-- [ ] 123. security policy
-- [ ] 124. contribution guide
+- [x] 123. security policy
+- [x] 124. contribution guide
 - [ ] 125. Pages readiness
 
 ## CST Web Experience
@@ -157,16 +157,16 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [ ] 136. responsive cards
 - [ ] 137. external-link rel safety
 - [ ] 138. QR fallback link
-- [ ] 139. broken-link check
-- [ ] 140. HTML validation
+- [x] 139. broken-link check
+- [x] 140. HTML validation
 - [ ] 141. JS syntax check
 - [ ] 142. local smoke test
 - [ ] 143. 404 page
 - [ ] 144. metadata description
 - [ ] 145. OpenGraph metadata
 - [ ] 146. privacy-safe analytics policy
-- [ ] 147. security policy
-- [ ] 148. contribution guide
+- [x] 147. security policy
+- [x] 148. contribution guide
 - [ ] 149. Pages readiness
 - [ ] 150. portfolio release readiness
 
