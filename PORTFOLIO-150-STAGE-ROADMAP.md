@@ -140,7 +140,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 122. favicon/official asset check
 - [x] 123. security policy
 - [x] 124. contribution guide
-- [ ] 125. Pages readiness
+- [x] 125. Pages readiness
 
 ## CST Web Experience
 
@@ -167,7 +167,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 146. privacy-safe analytics policy
 - [x] 147. security policy
 - [x] 148. contribution guide
-- [ ] 149. Pages readiness
+- [x] 149. Pages readiness
 - [ ] 150. portfolio release readiness
 
 ## Quality rule
