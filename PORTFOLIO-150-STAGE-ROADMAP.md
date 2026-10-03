@@ -22,7 +22,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 16. HTML report enrichment
 - [x] 17. dashboard evidence table
 - [x] 18. dashboard findings view
-- [ ] 19. JSON schema files
+- [x] 19. JSON schema files
 - [ ] 20. CLI error normalization
 - [x] 21. case export smoke tests
 - [ ] 22. packaging metadata audit
@@ -42,7 +42,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [ ] 33. hash classification
 - [x] 34. bounded input tests
 - [x] 35. provider timeout validation
-- [ ] 36. provider URL validation
+- [x] 36. provider URL validation
 - [ ] 37. provider response-size guard
 - [x] 38. provider error sanitization
 - [x] 39. configuration tests
@@ -60,28 +60,28 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 
 ## CyberIQ Security Tools
 
-- [ ] 51. input path validation
+- [x] 51. input path validation
 - [x] 52. IPv4 validation
-- [ ] 53. hash validation
+- [x] 53. hash validation
 - [ ] 54. URL normalization
-- [ ] 55. case-name safety
-- [ ] 56. evidence collision handling
-- [ ] 57. atomic manifests
+- [x] 55. case-name safety
+- [x] 56. evidence collision handling
+- [x] 57. atomic manifests
 - [ ] 58. workspace integrity boundary
 - [ ] 59. plugin input contract
 - [ ] 60. plugin error isolation
-- [ ] 61. batch size limits
-- [ ] 62. batch regression tests
-- [ ] 63. report schema validation
-- [ ] 64. dashboard escaping
+- [x] 61. batch size limits
+- [x] 62. batch regression tests
+- [x] 63. report schema validation
+- [x] 64. dashboard escaping
 - [ ] 65. search result normalization
-- [ ] 66. severity validation
+- [x] 66. severity validation
 - [ ] 67. executive report tests
 - [ ] 68. CLI smoke tests
 - [ ] 69. doctor tests
 - [ ] 70. release-check tests
 - [x] 71. contributor guide
-- [ ] 72. documentation accuracy audit
+- [x] 72. documentation accuracy audit
 - [ ] 73. CI verification
 - [ ] 74. dependency audit
 - [ ] 75. v10 readiness
@@ -91,11 +91,11 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 76. real-vs-reference labeling
 - [x] 77. writeup index validation
 - [x] 78. case metadata schema
-- [ ] 79. scope field requirement
+- [x] 79. scope field requirement
 - [x] 80. evidence field requirement
 - [x] 81. defensive takeaway requirement
 - [x] 82. flag redaction rule
-- [ ] 83. secret scan guidance
+- [x] 83. secret scan guidance
 - [x] 84. broken-link validation
 - [x] 85. JSON progress validation
 - [x] 86. archive slug validation
@@ -106,8 +106,8 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [ ] 91. dashboard data consistency
 - [ ] 92. knowledge-base crosslinks
 - [ ] 93. tool-map crosslinks
-- [ ] 94. RedCastle contamination review
-- [ ] 95. Deadwood record review
+- [x] 94. RedCastle contamination review
+- [x] 95. Deadwood record review
 - [ ] 96. CryptoHack reference audit
 - [ ] 97. Pages deployment check
 - [ ] 98. official-logo path check
@@ -128,14 +128,14 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [ ] 110. canvas performance cap
 - [ ] 111. responsive typography
 - [ ] 112. small-screen cards
-- [ ] 113. external-link rel safety
+- [x] 113. external-link rel safety
 - [x] 114. broken-link check
 - [x] 115. HTML validation
 - [ ] 116. CSS validation
 - [ ] 117. JS syntax check
 - [ ] 118. local smoke test
 - [x] 119. 404 page
-- [ ] 120. metadata description
+- [x] 120. metadata description
 - [ ] 121. OpenGraph metadata
 - [ ] 122. favicon/official asset check
 - [x] 123. security policy
@@ -148,14 +148,14 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 127. QR target verification
 - [x] 128. official-brand asset audit
 - [x] 129. semantic landmarks
-- [ ] 130. skip navigation
-- [ ] 131. keyboard focus states
+- [x] 130. skip navigation
+- [x] 131. keyboard focus states
 - [x] 132. ARIA labels
 - [x] 133. mobile navigation hardening
 - [x] 134. reduced-motion support
 - [ ] 135. canvas performance cap
 - [x] 136. responsive cards
-- [ ] 137. external-link rel safety
+- [x] 137. external-link rel safety
 - [ ] 138. QR fallback link
 - [x] 139. broken-link check
 - [x] 140. HTML validation
