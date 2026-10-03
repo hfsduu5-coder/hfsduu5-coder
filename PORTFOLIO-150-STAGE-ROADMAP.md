@@ -23,9 +23,9 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 17. dashboard evidence table
 - [x] 18. dashboard findings view
 - [x] 19. JSON schema files
-- [ ] 20. CLI error normalization
+- [x] 20. CLI error normalization
 - [x] 21. case export smoke tests
-- [ ] 22. packaging metadata audit
+- [x] 22. packaging metadata audit
 - [x] 23. license file
 - [ ] 24. CI evidence verification
 - [x] 25. v1.3 release readiness
@@ -55,7 +55,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 46. CLI smoke tests
 - [x] 47. documentation accuracy audit
 - [ ] 48. CI verification
-- [ ] 49. dependency audit
+- [x] 49. dependency audit
 - [ ] 50. v1.1 release readiness
 
 ## CyberIQ Security Tools
@@ -83,7 +83,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 71. contributor guide
 - [x] 72. documentation accuracy audit
 - [ ] 73. CI verification
-- [ ] 74. dependency audit
+- [x] 74. dependency audit
 - [ ] 75. v10 readiness
 
 ## CTF Writeups
@@ -131,9 +131,9 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 113. external-link rel safety
 - [x] 114. broken-link check
 - [x] 115. HTML validation
-- [ ] 116. CSS validation
-- [ ] 117. JS syntax check
-- [ ] 118. local smoke test
+- [x] 116. CSS validation
+- [x] 117. JS syntax check
+- [x] 118. local smoke test
 - [x] 119. 404 page
 - [x] 120. metadata description
 - [x] 121. OpenGraph metadata
@@ -156,7 +156,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 135. canvas performance cap
 - [x] 136. responsive cards
 - [x] 137. external-link rel safety
-- [ ] 138. QR fallback link
+- [x] 138. QR fallback link
 - [x] 139. broken-link check
 - [x] 140. HTML validation
 - [x] 141. JS syntax check
