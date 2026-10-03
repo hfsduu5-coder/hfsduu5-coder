@@ -38,7 +38,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 29. duplicate-header handling policy
 - [x] 30. query parser normalization
 - [x] 31. URL inventory normalization
-- [ ] 32. domain validation
+- [x] 32. domain validation
 - [x] 33. hash classification
 - [x] 34. bounded input tests
 - [x] 35. provider timeout validation
@@ -103,7 +103,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 88. accessibility pass
 - [x] 89. mobile navigation pass
 - [x] 90. search/filter regression
-- [ ] 91. dashboard data consistency
+- [x] 91. dashboard data consistency
 - [x] 92. knowledge-base crosslinks
 - [x] 93. tool-map crosslinks
 - [x] 94. RedCastle contamination review
