@@ -116,15 +116,15 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 
 ## CyberIQ Roadmap
 
-- [ ] 101. remove unverified metrics
-- [ ] 102. content-source notes
-- [ ] 103. official-brand asset audit
-- [ ] 104. semantic landmarks
-- [ ] 105. skip navigation
-- [ ] 106. keyboard focus states
-- [ ] 107. ARIA labels
-- [ ] 108. mobile menu accessibility
-- [ ] 109. reduced-motion support
+- [x] 101. remove unverified metrics
+- [x] 102. content-source notes
+- [x] 103. official-brand asset audit
+- [x] 104. semantic landmarks
+- [x] 105. skip navigation
+- [x] 106. keyboard focus states
+- [x] 107. ARIA labels
+- [x] 108. mobile menu accessibility
+- [x] 109. reduced-motion support
 - [ ] 110. canvas performance cap
 - [ ] 111. responsive typography
 - [ ] 112. small-screen cards
@@ -134,7 +134,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [ ] 116. CSS validation
 - [ ] 117. JS syntax check
 - [ ] 118. local smoke test
-- [ ] 119. 404 page
+- [x] 119. 404 page
 - [ ] 120. metadata description
 - [ ] 121. OpenGraph metadata
 - [ ] 122. favicon/official asset check
