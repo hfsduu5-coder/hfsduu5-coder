@@ -14,7 +14,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-hfsduu5--coder-181717?style=for-the-badge&logo=github)](https://github.com/hfsduu5-coder)
 ![Iraq](https://img.shields.io/badge/Based%20in-Iraq-800020?style=for-the-badge)
-![CyberIQ](https://img.shields.io/badge/CyberIQ-CEO%20%26%20Team%20Leader-8B0000?style=for-the-badge)
+![CyberIQ](https://img.shields.io/badge/CyberIQ-Team%20Leader-8B0000?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20%2B%20AI-B00020?style=for-the-badge)
 
 **بالعلم نبني، وبالأمن نحمي، وللمستقبل نصنع.**
@@ -36,7 +36,7 @@
 
 I build practical cybersecurity tools, AI-assisted systems, interactive learning experiences, and technical projects. My work centers on hands-on security education, CTF methodology, web security, OSINT, networking, automation, and software development.
 
-As **Team Leader and CEO of CyberIQ**, I work on cybersecurity, artificial intelligence, networking, programming, workshops, student projects, technical training, and practical labs.
+As **Team Leader of CyberIQ**, I work on cybersecurity, artificial intelligence, networking, programming, workshops, student projects, technical training, and practical labs.
 
 ## 🛡️ Security Focus
 
@@ -56,23 +56,23 @@ As **Team Leader and CEO of CyberIQ**, I work on cybersecurity, artificial intel
 
 ## 🚀 Featured Work
 
-### 🤖 [CyberAI-Lab](https://github.com/hfsduu5-coder/CyberAI-Lab)
-Extensible Python CLI for authorized AI-assisted cybersecurity research. Includes offline analyzer modules, workspaces, JSON/Markdown/HTML reporting, local dashboard, diagnostics, tests, CI, Ollama, and OpenAI-compatible provider support.
+### 🔬 [CyberIQ DFIR Lab](https://github.com/hfsduu5-coder/CyberIQ-DFIR-Lab)
+Local-first Digital Forensics & Incident Response workbench in Python. Case management, evidence hashing and integrity verification, timeline analysis, chain-of-custody records, structured findings, offline analysis, and investigation reporting.
 
-### 🏴 [CTF Workshop — CyberIQ](https://github.com/hfsduu5-coder/Workshop3)
-Interactive Arabic-first CTF workshop delivered through a responsive cyber-themed web experience.
+### 🤖 [CyberAI-Lab](https://github.com/hfsduu5-coder/CyberAI-Lab)
+Python CLI for authorized AI-assisted cybersecurity research, combining local defensive analyzers, structured workspaces, reporting, diagnostics, tests, and optional AI-provider integration.
+
+### 🛡️ [CyberIQ Security Tools](https://github.com/hfsduu5-coder/CyberIQ-Security-Tools-CYBERiQ)
+Defensive, local-first cybersecurity toolkit for evidence-oriented analysis, integrity checks, normalized findings, case workflows, reporting, and security learning.
+
+### 🏴 [CyberIQ CTF Writeups](https://github.com/hfsduu5-coder/-CTF-Writeups-cyberiq)
+My personal cybersecurity training and CTF research portfolio, documenting real practice cases, investigation methodology, forensics, cryptography, web-security learning, and clearly separated external references.
 
 ### 🧭 [CyberIQ Roadmap](https://github.com/hfsduu5-coder/Roadmap-Cyber-Team)
-Interactive Arabic RTL roadmap for cybersecurity learning and CyberIQ activities.
+Interactive Arabic RTL cybersecurity learning roadmap focused on structured technical growth, CyberIQ activities, and practical education.
 
 ### 🛡️ [CyberIQ Web Experience](https://github.com/hfsduu5-coder/CST)
-Responsive Arabic RTL CyberIQ interface with animated cyber visuals and QR-code functionality.
-
-### 🗄️ [Database Systems Course](https://github.com/hfsduu5-coder/-Database-Systems-Course)
-Interactive educational web application for browsing and reviewing Database Systems course material.
-
-### 🎓 [Academic & Professional Education Workshop](https://github.com/hfsduu5-coder/Workshop2)
-Arabic interactive presentation covering academic and professional education.
+Responsive Arabic RTL CyberIQ web experience with cyber-themed visuals and interactive functionality.
 
 ## 🧪 Projects & Research Direction
 
