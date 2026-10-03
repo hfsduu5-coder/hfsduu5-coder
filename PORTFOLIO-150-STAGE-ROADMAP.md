@@ -84,7 +84,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 72. documentation accuracy audit
 - [ ] 73. CI verification
 - [x] 74. dependency audit
-- [ ] 75. v10 readiness
+- [x] 75. v10 readiness
 
 ## CTF Writeups
 
