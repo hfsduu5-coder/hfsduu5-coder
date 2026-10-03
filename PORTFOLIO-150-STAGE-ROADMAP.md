@@ -74,12 +74,12 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 62. batch regression tests
 - [x] 63. report schema validation
 - [x] 64. dashboard escaping
-- [ ] 65. search result normalization
+- [x] 65. search result normalization
 - [x] 66. severity validation
 - [ ] 67. executive report tests
 - [x] 68. CLI smoke tests
-- [ ] 69. doctor tests
-- [ ] 70. release-check tests
+- [x] 69. doctor tests
+- [x] 70. release-check tests
 - [x] 71. contributor guide
 - [x] 72. documentation accuracy audit
 - [ ] 73. CI verification
