@@ -88,18 +88,18 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 
 ## CTF Writeups
 
-- [ ] 76. real-vs-reference labeling
-- [ ] 77. writeup index validation
-- [ ] 78. case metadata schema
+- [x] 76. real-vs-reference labeling
+- [x] 77. writeup index validation
+- [x] 78. case metadata schema
 - [ ] 79. scope field requirement
-- [ ] 80. evidence field requirement
-- [ ] 81. defensive takeaway requirement
-- [ ] 82. flag redaction rule
+- [x] 80. evidence field requirement
+- [x] 81. defensive takeaway requirement
+- [x] 82. flag redaction rule
 - [ ] 83. secret scan guidance
 - [x] 84. broken-link validation
 - [x] 85. JSON progress validation
-- [ ] 86. archive slug validation
-- [ ] 87. HTML case validation
+- [x] 86. archive slug validation
+- [x] 87. HTML case validation
 - [ ] 88. accessibility pass
 - [ ] 89. mobile navigation pass
 - [ ] 90. search/filter regression
