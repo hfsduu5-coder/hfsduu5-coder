@@ -21,7 +21,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 15. duplicate-evidence regression test
 - [x] 16. HTML report enrichment
 - [x] 17. dashboard evidence table
-- [ ] 18. dashboard findings view
+- [x] 18. dashboard findings view
 - [ ] 19. JSON schema files
 - [ ] 20. CLI error normalization
 - [x] 21. case export smoke tests
@@ -40,13 +40,13 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [ ] 31. URL inventory normalization
 - [ ] 32. domain validation
 - [ ] 33. hash classification
-- [ ] 34. bounded input tests
-- [ ] 35. provider timeout validation
+- [x] 34. bounded input tests
+- [x] 35. provider timeout validation
 - [ ] 36. provider URL validation
 - [ ] 37. provider response-size guard
-- [ ] 38. provider error sanitization
-- [ ] 39. configuration tests
-- [ ] 40. offline analyzer schema
+- [x] 38. provider error sanitization
+- [x] 39. configuration tests
+- [x] 40. offline analyzer schema
 - [x] 41. structured JSON output
 - [x] 42. HTML report hardening
 - [x] 43. dashboard escaping tests
@@ -151,7 +151,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [ ] 130. skip navigation
 - [ ] 131. keyboard focus states
 - [x] 132. ARIA labels
-- [ ] 133. mobile navigation hardening
+- [x] 133. mobile navigation hardening
 - [x] 134. reduced-motion support
 - [ ] 135. canvas performance cap
 - [x] 136. responsive cards
@@ -164,7 +164,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 143. 404 page
 - [x] 144. metadata description
 - [x] 145. OpenGraph metadata
-- [ ] 146. privacy-safe analytics policy
+- [x] 146. privacy-safe analytics policy
 - [x] 147. security policy
 - [x] 148. contribution guide
 - [ ] 149. Pages readiness
