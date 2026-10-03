@@ -108,9 +108,9 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 93. tool-map crosslinks
 - [x] 94. RedCastle contamination review
 - [x] 95. Deadwood record review
-- [ ] 96. CryptoHack reference audit
+- [x] 96. CryptoHack reference audit
 - [ ] 97. Pages deployment check
-- [ ] 98. official-logo path check
+- [x] 98. official-logo path check
 - [x] 99. contributor quality gate
 - [x] 100. portfolio release readiness
 
@@ -137,7 +137,7 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 119. 404 page
 - [x] 120. metadata description
 - [x] 121. OpenGraph metadata
-- [ ] 122. favicon/official asset check
+- [x] 122. favicon/official asset check
 - [x] 123. security policy
 - [x] 124. contribution guide
 - [ ] 125. Pages readiness
