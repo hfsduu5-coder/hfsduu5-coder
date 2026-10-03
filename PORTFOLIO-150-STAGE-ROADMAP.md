@@ -47,8 +47,8 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [ ] 38. provider error sanitization
 - [ ] 39. configuration tests
 - [ ] 40. offline analyzer schema
-- [ ] 41. structured JSON output
-- [ ] 42. HTML report hardening
+- [x] 41. structured JSON output
+- [x] 42. HTML report hardening
 - [x] 43. dashboard escaping tests
 - [x] 44. workspace path safety
 - [ ] 45. plugin contract tests
