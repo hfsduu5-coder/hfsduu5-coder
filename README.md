@@ -9,7 +9,7 @@
 
 **الحنتوشي • Al-Hantooshi**
 
-### Developer • Team Leader • CEO of CyberIQ
+### Developer • Team Leader of CyberIQ
 **Cybersecurity • AI • Security Tools • CTF • Web Security**
 
 [![GitHub](https://img.shields.io/badge/GitHub-hfsduu5--coder-181717?style=for-the-badge&logo=github)](https://github.com/hfsduu5-coder)
@@ -28,7 +28,7 @@
 - **Name:** مقتدى الصدر جارالله خليف — Muqtada Al-Sadr Jarallah Khalif
 - **Nickname:** الحنتوشي — Al-Hantooshi
 - **Role:** Developer
-- **Leadership:** Team Leader & CEO of **CyberIQ**
+- **Leadership:** Team Leader of **CyberIQ**
 - 🎓 Networks & Cybersecurity Engineering student at **Al-Iraqia University**
 - 🌍 Iraq
 
@@ -85,7 +85,7 @@ Arabic interactive presentation covering academic and professional education.
 
 ## 👥 CyberIQ
 
-**CyberIQ** is the team and technical initiative I lead as **Team Leader and CEO**. Its direction combines:
+**CyberIQ** is the team and technical initiative I lead as **Team Leader**. Its direction combines:
 
 `Cybersecurity` • `Artificial Intelligence` • `Networking` • `Programming` • `CTF` • `Workshops` • `Student Projects` • `Practical Labs`
 
@@ -117,6 +117,6 @@ The goal is to turn technical knowledge into practical projects, training, secur
 ### Build. Break. Learn. Secure.
 
 **Muqtada Al-Sadr Jarallah Khalif • Al-Hantooshi**  
-**Developer • Team Leader & CEO of CyberIQ**
+**Developer • Team Leader of CyberIQ**
 
 </div>
