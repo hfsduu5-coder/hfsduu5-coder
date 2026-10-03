@@ -19,16 +19,16 @@ A concrete quality roadmap for the six flagship public repositories. A stage is 
 - [x] 13. tamper regression test
 - [x] 14. path-traversal regression test
 - [x] 15. duplicate-evidence regression test
-- [ ] 16. HTML report enrichment
-- [ ] 17. dashboard evidence table
+- [x] 16. HTML report enrichment
+- [x] 17. dashboard evidence table
 - [ ] 18. dashboard findings view
 - [ ] 19. JSON schema files
 - [ ] 20. CLI error normalization
-- [ ] 21. case export smoke tests
+- [x] 21. case export smoke tests
 - [ ] 22. packaging metadata audit
 - [x] 23. license file
 - [ ] 24. CI evidence verification
-- [ ] 25. v1.3 release readiness
+- [x] 25. v1.3 release readiness
 
 ## CyberAI Lab
 
